@@ -8,13 +8,13 @@ Here is the demo code of Pyramid-like Multi-Scale Convolutional Neural Network(P
 In tensorboard, the data flow of different levels are shown below.
 
 Level3:
-![image](http://github.com/Cpzzzz/PMCNN/raw/master/images/Level3.png)
+![image](https://github.com/Cpzzzz/PMCNN/blob/master/images/Level3.png)
 
 Level2:
-![image](http://github.com/Cpzzzz/PMCNN/raw/master/images/Level2.png)
+![image](https://github.com/Cpzzzz/PMCNN/blob/master/images/Level2.png)
 
 Level1:
-![image](http://github.com/Cpzzzz/PMCNN/raw/master/images/Level1.png)
+![image](https://github.com/Cpzzzz/PMCNN/blob/master/images/Level1.png)
 
 
 
