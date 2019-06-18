@@ -6,12 +6,16 @@ Here is the demo code of Pyramid-like Multi-Scale Convolutional Neural Network(P
 
 
 In tensorboard, the data flow of different levels are shown below.
+
 Level3:
 ![image](http://github.com/Cpzzzz/PMCNN/raw/master/images/Level3.png)
+
 Level2:
 ![image](http://github.com/Cpzzzz/PMCNN/raw/master/images/Level2.png)
+
 Level1:
 ![image](http://github.com/Cpzzzz/PMCNN/raw/master/images/Level1.png)
+
 
 
 The code of training is adapted from https://github.com/gpleiss/efficient_densenet_pytorch.
