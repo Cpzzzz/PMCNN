@@ -2,6 +2,7 @@
 
 Here is the demo code of Pyramid-like Multi-Scale Convolutional Neural Network(PMCNN), the structure of PMCNN is shown below.
 
+![image](https://github.com/Cpzzzz/PMCNN/blob/master/images/Structure.png)
 
 
 
